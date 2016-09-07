@@ -1,2 +1,3 @@
 # HelloWorld
-Just to learn how to use GitHub
+to learn how to use GitHub
+made small change
